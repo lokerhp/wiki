@@ -15,7 +15,6 @@ module.exports = {
     }
   },
   themeConfig: {
-    defaultTheme: { light: [6, 18], dark: [18, 6] },
     logo: '/logo.png',
     repo: 'minetopiasdb/docs',
     repoLabel: 'Contribute',
