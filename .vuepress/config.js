@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/sdbdocs',
+  base: '/sdbdocs/',
   title: 'MinetopiaSDB Docs',
   theme: 'default-prefers-color-scheme',
   locales: {
