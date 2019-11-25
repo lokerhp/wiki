@@ -11,7 +11,7 @@ module.exports = {
     '/en/': {
       lang: 'en-US',
       title: 'MinetopiaSDB',
-      description: 'The Minecraft system, but reinvented',
+      description: 'The Minecraft system, reinvented.',
     }
   },
   themeConfig: {
