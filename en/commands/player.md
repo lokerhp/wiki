@@ -6,32 +6,32 @@ Permission: None!
 
 **/chatcolor**\
 Description: With /chatcolor you can give chatcolors to players or modify chatcolors.\
-Permission: None!
+Permission: None!\
 Aliases: /chatkleur
 
 **/prefixcolor**\
 Description: With /chatcolor you can give prefixcolors to players or modify prefixcolors.\
-Permission: None!
+Permission: None!\
 Aliases: /prefixkleur
 
 **/levelcolor**\
 Description: With /levelcolor you can give levelcolors to players or modify levelcolors.\
-Permission: None!
+Permission: None!\
 Aliases: /levelkleur
 
 **/scoreboard**\
 Description: With /scoreboard you can enable or disable your scoreboard.\
-Permission: None!
+Permission: None!\
 Aliases: /sboard, /sb
 
 **/time**\
 Description: Look at your onlinetime.\
-Permission: None!
+Permission: None!\
 Aliases: /playtime, /ptime
 
 **/plotinfo**\
 Description: With /plotinfo you can see basic information of a plot.\
-Permission: None!
+Permission: None!\
 Aliases: /pinfo, /pi
 
 **/plot**\
@@ -44,7 +44,7 @@ Permission: None!
 
 **/fitnessreset**\
 Description: Give players access to fitnessresets they can activate themselves.\
-Permission: None!
+Permission: None!\
 Aliases: /fitheidreset
 
 **/pin**\
@@ -53,5 +53,5 @@ Permission: None!
 
 **/112**\
 Description: Use /911 to call the police.\
-Permission: minetopiasdb.112.send
+Permission: minetopiasdb.112.send\
 Aliases: /emergency, /911
