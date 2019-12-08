@@ -52,8 +52,10 @@ Het opslaan van data is in de v2 update van MinetopiaSDB een stuk efficiënter g
 
 
 **Waarom kost dit geld? Ik dacht dat MinetopiaSDB gratis was?**
+
 MinetopiaSDB is en blijft gratis. Het migreren van data is immers vrijwillig. Je kunt prima door gaan met jouw server zonder data om te zetten, alhoewel dit zal betekenen dat jouw spelers weer vanaf 0 moeten beginnen.
 
 
 **Ik wil mijn data laten migreren naar v2 data, hoe moet dat?**
+
 Dat kan door een emailtje te sturen naar [datamigratie@minetopiasdb.nl](mailto:datamigratie@minetopiasdb.nl).
