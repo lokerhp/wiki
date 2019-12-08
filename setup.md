@@ -62,9 +62,9 @@ Dat kan door een emailtje te sturen naar [datamigratie@minetopiasdb.nl](mailto:d
 
 | Spelersaantal   | Prijs   |
 | --------------- | ------- |
-| < 100           | Gratis¹ |
+| < 100           | Gratis* |
 | < 2.000         | € 2     |
 | < 10.000        | € 4     |
 | > 10.000        | € 6     |
 
-¹ = alleen wanneer jouw server niet commercieel is, dus geen winkel heeft.
+* = alleen wanneer jouw server niet commercieel is en geen winkel heeft.
