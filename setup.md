@@ -9,7 +9,7 @@ Deze setup guide is alleen geldig voor MinetopiaSDB v2.0 of hoger
 ## Dependencies
 
 | Serverversie    | WorldEdit | WorldGuard | Essentials | Vault | Citizens (niet verplicht!) |
-| :---------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
+| :--------------- | :---------------- | :---------------- | :---------------- | :---------------- | :---------------- |
 | 1.9.4           | [Download](https://dev.bukkit.org/projects/worldedit/files/2460562/download) | [Download](https://dev.bukkit.org/projects/worldguard/files/956770/download) | [Download](https://www.spigotmc.org/resources/essentialsx.9089/download?version=286847) | [Download](https://dev.bukkit.org/projects/vault/files/2704903/download) | [Download](https://ci.citizensnpcs.co/job/citizens2/1371/) |
 | 1.10.2          | [Download](https://dev.bukkit.org/projects/worldedit/files/2460562/download) | [Download](https://dev.bukkit.org/projects/worldguard/files/956770/download) | [Download](https://www.spigotmc.org/resources/essentialsx.9089/download?version=286847) | [Download](https://dev.bukkit.org/projects/vault/files/2704903/download) | [Download](https://ci.citizensnpcs.co/job/Citizens2/1552/) |
 | 1.11.2          | [Download](https://dev.bukkit.org/projects/worldedit/files/2460562/download) | [Download](https://dev.bukkit.org/projects/worldguard/files/956770/download) | [Download](https://www.spigotmc.org/resources/essentialsx.9089/download?version=286847) | [Download](https://dev.bukkit.org/projects/vault/files/2704903/download) | [Download](https://ci.citizensnpcs.co/job/Citizens2/1552/) |
@@ -19,7 +19,7 @@ Deze setup guide is alleen geldig voor MinetopiaSDB v2.0 of hoger
 
 ## Database setup
 
-::: warning
+::: tip
 Wil je MinetopiaSDB met meerdere servers via Bungeecord gebruiken? Zet dan bij
 ```
 Multiserver:
