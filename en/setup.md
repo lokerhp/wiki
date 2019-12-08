@@ -52,3 +52,12 @@ MinetopiaSDB is and remains free. After all, migrating data is voluntary. You ca
 
 ### I want to migrate my data to the new data, how can I do this?
 You can convert your data by sending an email to [datamigration@minetopiasdb.nl](mailto:datamigration@minetopiasdb.nl).
+
+| Playercount     | Price |
+| --------------- | ----- |
+| < 100           | Free¹ |
+| < 2.000         | € 2   |
+| < 10.000        | € 4   |
+| > 10.000        | € 6   |
+
+¹ = only when your server clearly isn't commercial, so doesn't have a store
