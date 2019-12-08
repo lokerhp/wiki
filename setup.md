@@ -26,7 +26,7 @@ Multiserver:
   MessageChannels:
     Enabled: false
 ``` 
-enabled op true!
+``Enabled:`` op true!
 :::
 
 
@@ -48,12 +48,11 @@ Om gebruik te maken van MySQL moet je ``Enabled:`` op true zetten waarna je jouw
 
 ## Data migratie
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eget enim condimentum, commodo mauris ac, elementum ex. Nam eget lorem leo. Sed volutpat odio sem, et consequat sem sagittis id. Aenean lobortis ultrices nunc, vitae interdum turpis. Nulla dignissim blandit odio et dictum. Pellentesque interdum nisl sed sem vestibulum porta. Maecenas orci quam, rhoncus eu interdum et, sollicitudin quis tellus. Nullam orci ligula, pretium in nunc a, consectetur laoreet mi.
+De manier van data opslaan in MinetopiaSDB v2 is een stuk efficiënter geworden t.o.v. MinetopiaSDB v1, dit betekent helaas wel dat de oude MinetopiaSDB v1 data niet zomaar werkt met de nieuwe MinetopiaSDB versie. Om dit op te lossen hebben we een betaalde data-conversie dienst gelanceerd. Hier kun je tegen een kleine betaling jouw data laten converteren naar de v2 data waardoor je geen gebruikersdata verliest. 
 
-Donec facilisis tortor velit, vel hendrerit tellus viverra id. Cras at lacus tincidunt, tempus enim et, volutpat ligula. Sed pretium fermentum eros, ac elementum mauris vestibulum ac. Ut sit amet maximus nibh. Etiam vel felis a mauris gravida maximus non sit amet velit. Nam vel massa ultricies, elementum ante sit amet, facilisis lorem. Aenean semper erat quis est rutrum, eu sodales quam fringilla. Sed eleifend posuere lorem et molestie. Integer pharetra a elit non rhoncus. Mauris mollis id ligula ut pharetra. Fusce mattis ante sed facilisis sagittis.
+### Maar waarom vragen jullie ineens geld, ik dacht dat MinetopiaSDB gratis was??!?!?!
+MinetopiaSDB is en blijft gratis. Het migreren van data is immers vrijwillig. Je kunt prima door gaan met jouw server zonder data om te zetten, alhoewel dit zal betekenen dat jouw spelers weer vanaf 0 moeten beginnen.
 
-Ut vulputate hendrerit libero nec tincidunt. Suspendisse potenti. Integer vitae volutpat diam, a congue lacus. Vestibulum nec bibendum mi. Curabitur eu nulla aliquam, faucibus leo at, pretium nisi. Proin semper ultrices turpis, et tempor diam semper eu. Integer convallis erat scelerisque mauris maximus fermentum. Integer tempus quis nisi vel rhoncus. Nam rutrum dui magna, ac lacinia neque congue ac. Morbi in lectus vitae dolor hendrerit posuere. Duis auctor justo ac fermentum tristique. Donec eu velit at ligula finibus pretium a a turpis. Sed non erat posuere, euismod purus a, malesuada diam. Proin consequat ut sapien nec porttitor. Sed efficitur massa quis leo dignissim, ac vulputate risus eleifend. Cras consequat eu purus nec efficitur.
 
-Proin non blandit ligula. Vestibulum porta in sapien ut lacinia. Vivamus hendrerit odio vitae magna interdum, at consequat elit lacinia. Aliquam arcu tellus, hendrerit vitae enim at, ultricies tincidunt velit. Nam ut velit posuere, malesuada dolor eget, egestas massa. Vivamus ultricies neque eros, in pharetra metus molestie nec. Vestibulum bibendum metus metus, et mattis risus ultricies ac. Ut non quam suscipit, tempus libero eu, molestie metus. Sed porta eget purus ut rhoncus. Maecenas scelerisque mi est, sed suscipit augue viverra eget. Donec accumsan, libero nec egestas bibendum, leo justo finibus est, porttitor porta risus nisl sit amet diam. Phasellus non urna bibendum, dapibus massa sed, volutpat tellus. Praesent tincidunt diam mi, id pellentesque tortor consequat non. Fusce et turpis accumsan, efficitur elit a, semper magna.
-
-Donec vitae porttitor sapien, non semper lacus. Proin lacinia elit eros, nec pharetra turpis vehicula laoreet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum nec rhoncus nunc, sit amet pulvinar nisl. Integer justo urna, malesuada porttitor porttitor id, ullamcorper a ante. Phasellus efficitur vitae dui suscipit blandit. Maecenas elementum, tellus quis convallis pharetra, velit mauris consequat sapien, id fermentum risus diam vitae turpis. Curabitur neque eros, euismod a elit nec, dignissim tincidunt est. Maecenas vitae enim quis est pharetra dapibus. In augue sapien, suscipit vel nisi quis, volutpat bibendum orci. Nam bibendum dui mi, in convallis felis ullamcorper nec. Quisque auctor mollis quam, at ullamcorper nunc vestibulum a. Quisque vitae dapibus ligula. Ut eget dolor eu magna sagittis laoreet at accumsan turpis. Donec vitae sagittis ex. Duis scelerisque, nunc nec fermentum vestibulum, felis leo posuere tellus, eget sollicitudin mi purus placerat massa.
+### Ik wil mijn data laten migreren naar de nieuwe data, hoe moet dat?
+Er zijn twee manieren om jouw data te laten migreren. De eerste manier is om een discord-bericht sturen naar MrWouter#3441, de tweede manier is om een emailtje te sturen naar datamigratie@minetopiasdb.nl. 
