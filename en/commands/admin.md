@@ -6,17 +6,17 @@ Permission: minetopiasdb.sdb
 
 **/calculate**\
 Description: With /calculate you can see the buildingsprice of a selected area.\
-Permission: minetopiasdb.calculate
+Permission: minetopiasdb.calculate\
 Aliases: /bereken
 
 **/plotwand**\
 Description: You need a plotwand to create plots or use /calculate.\
-Permission: minetopiasdb.plotwand
+Permission: minetopiasdb.plotwand\
 Aliases: /plotadd
 
 **/staffchat**\
 Description: Use /staffchat \[message\] to send a message in the staffchat or use /staffchat to join the staffchat.\
-Permission: minetopiasdb.staffchat
+Permission: minetopiasdb.staffchat\
 Aliases: /sc, /staffc
 
 **/admintool**\
@@ -37,22 +37,22 @@ Permission: minetopiasdb.openbank
 
 **/mtworld**\
 Description: With /mtworld you can enable MinetopiaSDB in a world and change the scoreboardcolor, title or temperature.\
-Permission: minetopiasdb.mtworld
+Permission: minetopiasdb.mtworld\
 Aliases: /mtwereld, /wereld
 
 **/mtcity**\
 Description: With /mtcity you can enable MinetopiaSDB in a worldguard region and change the scoreboardcolor, title or temperature.\
-Permission: minetopiasdb.mtcity
+Permission: minetopiasdb.mtcity\
 Aliases: /mtstad, /stad
 
 **/key**\
 Description: With keys you can open all the chests en doors on plots.\
-Permission: minetopiasdb.key
+Permission: minetopiasdb.key\
 Aliases: /sleutel
 
 **/book**\
 Description: Create books for things such as fines, drivingslicenses or passports.\
-Permission: minetopiasdb.book
+Permission: minetopiasdb.book\
 Aliases: /boek
 
 **/deathban**\
@@ -61,17 +61,17 @@ Permission: minetopiasdb.deathban
 
 **/ddgitems**\
 Description: Open a menu with (nearly) all the items from the DDG resourcepack.\
-Permission: minetopiasdb.ddgitems
+Permission: minetopiasdb.ddgitems\
 Aliases: /fitheiditems, /rugzak, /backpack, /fitnessitems
 
 **/sdbitems**\
 Description: Give items a glow or unbreakable effect, or create armor.\
-Permission: minetopiasdb.sdbitems
+Permission: minetopiasdb.sdbitems\
 Aliases: /glow, /unbreakable, /boots, /kleding
 
 **/bankaccount**\
 Description: With /bankaccount you can modify savings, company or government bankaccounts.\
-Permission: minetopiasdb.bankaccount
+Permission: minetopiasdb.bankaccount\
 Aliases: /rekening, /ohrekening, /spaarrekening
 
 **/teleporter**\
@@ -80,22 +80,22 @@ Permission: minetopiasdb.teleporter
 
 **/criminalrecord**\
 Description: Use /criminalrecord to manage criminal records.\
-Permission: minetopiasdb.criminalrecord
+Permission: minetopiasdb.criminalrecord\
 Aliases: /strafblad, /crimrecord
 
 **/phone**\
 Description: Use /phone to get phones and manage calling credit.\
-Permission: minetopiasdb.phone
+Permission: minetopiasdb.phone\
 Aliases: /telefoon, /beltegoed
 
 **/prefix**\
 Description: Use /prefix to open your prefixmenu.\
-Permission: minetopiasdb.prefix
+Permission: minetopiasdb.prefix\
 Aliases: /telefoon, /beltegoed
 
 **/realmoney**\
 Description: Spawn in real money and toggle the existence of fake money.\
-Permission: minetopiasdb.realmoney
+Permission: minetopiasdb.realmoney\
 Aliases: /echtgeld, /nepgeld, /fakemoney
 
 **/lootcrate**\
