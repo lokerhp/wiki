@@ -21,7 +21,7 @@ Deze setup guide is alleen geldig voor MinetopiaSDB v2.0 of hoger
 
 ::: tip
 Wil je MinetopiaSDB met meerdere servers via Bungeecord gebruiken? Zet dan bij
-```
+```yml
 Multiserver:
   MessageChannels:
     Enabled: false
@@ -33,7 +33,7 @@ Multiserver:
 Een van de leukste nieuwe features aan MinetopiaSDB v2 is de ondersteuning voor MySQL databases. Het is nu mogelijk om data op te slaan in een database en op die manier jouw data in meerdere servers te gebruiken (en op die manier jouw spelers ook over verschillende servers te verspreiden.) 
 
 Het is niet verplicht om een database in te stellen, als je niets instelt maak je automatisch gebruik van een lokale SQLite database. De normale MySQL instellingen zien er zo uit:
-```
+```yml
 MySQL:
   Enabled: false
   Username: root
@@ -48,11 +48,12 @@ Om gebruik te maken van MySQL moet je ``Enabled:`` op true zetten waarna je jouw
 
 ## Data migratie
 
-De manier van data opslaan in MinetopiaSDB v2 is een stuk efficiënter geworden t.o.v. MinetopiaSDB v1, dit betekent helaas wel dat de oude MinetopiaSDB v1 data niet zomaar werkt met de nieuwe MinetopiaSDB versie. Om dit op te lossen hebben we een betaalde data-conversie dienst gelanceerd. Hier kun je tegen een kleine betaling jouw data laten converteren naar de v2 data waardoor je geen gebruikersdata verliest. 
+Het opslaan van data is in de v2 update van MinetopiaSDB een stuk efficiënter geworden. Dit betekent helaas ook dat de oude v1 data niet zomaar overgezet kan worden. Hiervoor moet de data omgezet worden. Om dit probleem op te lossen hebben we een datamigratie dienst gelanceerd. Met deze dienst is het mogelijk om tegen een kleine betaling jouw data te laten converteren naar de v2 data waardoor je alle spelerdata behoudt.
 
-### Maar waarom vragen jullie ineens geld, ik dacht dat MinetopiaSDB gratis was??!?!?!
+
+**Waarom kost dit geld? Ik dacht dat MinetopiaSDB gratis was?**
 MinetopiaSDB is en blijft gratis. Het migreren van data is immers vrijwillig. Je kunt prima door gaan met jouw server zonder data om te zetten, alhoewel dit zal betekenen dat jouw spelers weer vanaf 0 moeten beginnen.
 
 
-### Ik wil mijn data laten migreren naar de nieuwe data, hoe moet dat?
-Er zijn twee manieren om jouw data te laten migreren. De eerste manier is om een discord-bericht sturen naar MrWouter#3441, de tweede manier is om een emailtje te sturen naar [datamigratie@minetopiasdb.nl](mailto:datamigratie@minetopiasdb.nl). 
+**Ik wil mijn data laten migreren naar v2 data, hoe moet dat?**
+Dat kan door een emailtje te sturen naar [datamigratie@minetopiasdb.nl](mailto:datamigratie@minetopiasdb.nl).
