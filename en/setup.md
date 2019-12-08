@@ -3,7 +3,7 @@
 [[toc]]
 
 ::: warning
-This setup guide is for MinetopiaSDB v2.0 and up
+This setup guide is for MinetopiaSDB v2.0 and up!
 :::
 
 ## Dependencies
