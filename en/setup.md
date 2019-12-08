@@ -60,4 +60,4 @@ You can convert your data by sending an email to [datamigration@minetopiasdb.nl]
 | < 10.000        | € 4   |
 | > 10.000        | € 6   |
 
-* = only when your server clearly isn't commercial and doesn't have a store
+\* = only when your server clearly isn't commercial and doesn't have a store.
