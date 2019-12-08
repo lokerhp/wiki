@@ -50,3 +50,8 @@ Aliases: /fitheidreset
 **/pin**\
 Description: Use /pin to send paymentrequests that you can pay with the pinconsole.\
 Permission: None!
+
+**/112**\
+Description: Use /911 to call the police.\
+Permission: minetopiasdb.112.send
+Aliases: /emergency, /911
