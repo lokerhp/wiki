@@ -59,3 +59,12 @@ MinetopiaSDB is en blijft gratis. Het migreren van data is immers vrijwillig. Je
 ## Ik wil mijn data laten migreren naar v2 data, hoe moet dat?
 
 Dat kan door een emailtje te sturen naar [datamigratie@minetopiasdb.nl](mailto:datamigratie@minetopiasdb.nl).
+
+| Spelersaantal   | Prijs   |
+| --------------- | ------- |
+| < 100           | Gratis¹ |
+| < 2.000         | € 2     |
+| < 10.000        | € 4     |
+| > 10.000        | € 6     |
+
+¹ = alleen wanneer jouw server niet commercieel is, dus geen winkel heeft.
