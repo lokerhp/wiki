@@ -55,9 +55,9 @@ You can convert your data by sending an email to [datamigration@minetopiasdb.nl]
 
 | Playercount     | Price |
 | --------------- | ----- |
-| < 100           | Free¹ |
+| < 100           | Free* |
 | < 2.000         | € 2   |
 | < 10.000        | € 4   |
 | > 10.000        | € 6   |
 
-¹ = only when your server clearly isn't commercial, so doesn't have a store
+* = only when your server clearly isn't commercial and doesn't have a store
