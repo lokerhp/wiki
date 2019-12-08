@@ -6,22 +6,22 @@ Permissie: minetopiasdb.sdb
 
 **/calculate**\
 Omschrijving: Met /bereken kan je de gebouwsprijs van een door jouw geselecteerd gebied bekijken.\
-Permissie: minetopiasdb.calculate
+Permissie: minetopiasdb.calculate\
 Aliases: /bereken
 
 **/plotwand**\
 Omschrijving: Je hebt een plotwand nodig om plots te maken en /bereken uit te voeren.\
-Permissie: minetopiasdb.plotwand
+Permissie: minetopiasdb.plotwand\
 Aliases: /plotadd
 
 **/112**\
 Omschrijving: Gebruik /112 om de politie te bellen.\
-Permissie: minetopiasdb.112.send
+Permissie: minetopiasdb.112.send\
 Aliases: /emergency, /911
 
 **/staffchat**\
 Omschrijving: Gebruik /staffchat \[bericht\] om een bericht in de staffchat te sturen of /staffchat om de staffchat te joinen.\
-Permissie: minetopiasdb.staffchat
+Permissie: minetopiasdb.staffchat\
 Aliases: /sc, /staffc
 
 **/admintool**\
@@ -42,22 +42,22 @@ Permissie: minetopiasdb.openbank
 
 **/mtworld**\
 Omschrijving: Met /mtwereld kan je MinetopiaSDB aanzetten in een wereld en de scoreboardkleur, titel en temperatuur veranderen.\
-Permissie: minetopiasdb.mtworld
+Permissie: minetopiasdb.mtworld\
 Aliases: /mtwereld, /wereld
 
 **/mtcity**\
 Omschrijving: Met /mtcity kan je MinetopiaSDB aanzetten in een worldguard region en de scoreboardkleur, titel en temperatuur veranderen.\
-Permissie: minetopiasdb.mtcity
+Permissie: minetopiasdb.mtcity\
 Aliases: /mtstad, /stad
 
 **/key**\
 Omschrijving: Met sleutels kan je alle kisten en deuren op plots openen.\
-Permissie: minetopiasdb.key
+Permissie: minetopiasdb.key\
 Aliases: /sleutel
 
 **/book**\
 Omschrijving: Maak boekjes voor (o.a.) boetes, rijbewijzen, ID-bewijzen.\
-Permissie: minetopiasdb.book
+Permissie: minetopiasdb.book\
 Aliases: /boek
 
 **/deathban**\
@@ -66,41 +66,41 @@ Permissie: minetopiasdb.deathban
 
 **/ddgitems**\
 Omschrijving: Krijg een menu met (bijna) alle items uit de DDG resourcepack.\
-Permissie: minetopiasdb.ddgitems
+Permissie: minetopiasdb.ddgitems\
 Aliases: /fitheiditems, /rugzak, /backpack, /fitnessitems
 
 **/sdbitems**\
 Omschrijving: Geef items een glow of unbreakable effect, of maak armor.\
-Permissie: minetopiasdb.sdbitems
+Permissie: minetopiasdb.sdbitems\
 Aliases: /glow, /unbreakable, /boots, /kleding
 
 **/bankaccount**\
 Omschrijving: Met /rekening kan je spaar-, bedrijf-, of overheidsrekeningen aanpassen.\
-Permissie: minetopiasdb.bankaccount
+Permissie: minetopiasdb.bankaccount\
 Aliases: /rekening, /ohrekening, /spaarrekening
 
 **/teleporter**\
 Omschrijving: Gebruik /teleporter om teleporters aan te maken of te verwijderen.\
-Permissie: minetopiasdb.teleporter
+Permissie: minetopiasdb.teleporter\
 
 **/criminalrecord**\
 Omschrijving: Gebruik /strafblad om strafbladen van spelers te beheren.\
-Permissie: minetopiasdb.criminalrecord
+Permissie: minetopiasdb.criminalrecord\
 Aliases: /strafblad, /crimrecord
 
 **/phone**\
 Omschrijving: Gebruik /telefoon om telefoons te krijgen en beltegoed te beheren.\
-Permissie: minetopiasdb.phone
+Permissie: minetopiasdb.phone\
 Aliases: /telefoon, /beltegoed
 
 **/prefix**\
 Omschrijving: Gebruik /prefix om jouw prefixmenu te openen.\
-Permissie: minetopiasdb.prefix
+Permissie: minetopiasdb.prefix\
 Aliases: /telefoon, /beltegoed
 
 **/realmoney**\
 Omschrijving: Spawn echt geld in en toggle het bestaan van nepgeld.\
-Permissie: minetopiasdb.realmoney
+Permissie: minetopiasdb.realmoney\
 Aliases: /echtgeld, /nepgeld, /fakemoney
 
 **/lootcrate**\
