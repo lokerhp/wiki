@@ -1,6 +1,8 @@
 **/sdb**
 Omschrijving: Gebruik /sdb voor de hulppagina.
+
 Permissie: Geen!
+
 Aliases: [minetopiasdb]
  
 **/head**
