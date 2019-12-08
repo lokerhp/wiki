@@ -50,3 +50,8 @@ Aliases: /fitheidreset
 **/pin**\
 Omschrijving: Gebruik /pin om betaalverzoeken te versturen die je met de pinconsole kan betalen.\
 Permissie: Geen!
+
+**/112**\
+Omschrijving: Gebruik /112 om de politie te bellen.\
+Permissie: minetopiasdb.112.send\
+Aliases: /emergency, /911
