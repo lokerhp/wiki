@@ -55,4 +55,4 @@ MinetopiaSDB is en blijft gratis. Het migreren van data is immers vrijwillig. Je
 
 
 ### Ik wil mijn data laten migreren naar de nieuwe data, hoe moet dat?
-Er zijn twee manieren om jouw data te laten migreren. De eerste manier is om een discord-bericht sturen naar MrWouter#3441, de tweede manier is om een emailtje te sturen naar datamigratie@minetopiasdb.nl. 
+Er zijn twee manieren om jouw data te laten migreren. De eerste manier is om een discord-bericht sturen naar MrWouter#3441, de tweede manier is om een emailtje te sturen naar [datamigratie@minetopiasdb.nl](mailto:datamigratie@minetopiasdb.nl). 
