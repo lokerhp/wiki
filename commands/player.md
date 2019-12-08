@@ -6,32 +6,32 @@ Permissie: Geen!
 
 **/chatcolor**\
 Omschrijving: Met /chatkleur kan je chatkleuren aan spelers geven of chatkleuren aanpassen.\
-Permissie: Geen!
+Permissie: Geen!\
 Aliases: /chatkleur
 
 **/prefixcolor**\
 Omschrijving: Met /prefixkleur kan je prefixkleuren aan spelers geven of prefixkleuren aanpassen.\
-Permissie: Geen!
+Permissie: Geen!\
 Aliases: /prefixkleur
 
 **/levelcolor**\
 Omschrijving: Met /levelkleur kan je levelkleuren aan spelers geven of levelkleuren aanpassen.\
-Permissie: Geen!
+Permissie: Geen!\
 Aliases: /levelkleur
 
 **/scoreboard**\
 Omschrijving: Met /scoreboard kan je jouw scoreboard aan of uit zetten.\
-Permissie: Geen!
+Permissie: Geen!\
 Aliases: /sboard, /sb
 
 **/time**\
 Omschrijving: Bekijk jouw onlinetijd.\
-Permissie: Geen!
+Permissie: Geen!\
 Aliases: /playtime, /ptime
 
 **/plotinfo**\
 Omschrijving: Met /plotinfo kan je de basisinformatie van een plot zien.\
-Permissie: Geen!
+Permissie: Geen!\
 Aliases: /pinfo, /pi
 
 **/plot**\
@@ -44,7 +44,7 @@ Permissie: Geen!
 
 **/fitnessreset**\
 Omschrijving: Geef spelers toegang tot fitheidresets die ze zelf kunnen activeren.\
-Permissie: Geen!
+Permissie: Geen!\
 Aliases: /fitheidreset
 
 **/pin**\
