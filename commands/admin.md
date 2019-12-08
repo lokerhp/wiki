@@ -14,11 +14,6 @@ Omschrijving: Je hebt een plotwand nodig om plots te maken en /bereken uit te vo
 Permissie: minetopiasdb.plotwand\
 Aliases: /plotadd
 
-**/112**\
-Omschrijving: Gebruik /112 om de politie te bellen.\
-Permissie: minetopiasdb.112.send\
-Aliases: /emergency, /911
-
 **/staffchat**\
 Omschrijving: Gebruik /staffchat \[bericht\] om een bericht in de staffchat te sturen of /staffchat om de staffchat te joinen.\
 Permissie: minetopiasdb.staffchat\
