@@ -14,11 +14,6 @@ Description: You need a plotwand to create plots or use /calculate.\
 Permission: minetopiasdb.plotwand
 Aliases: /plotadd
 
-**/112**\
-Description: Use /911 to call the police.\
-Permission: minetopiasdb.112.send
-Aliases: /emergency, /911
-
 **/staffchat**\
 Description: Use /staffchat \[message\] to send a message in the staffchat or use /staffchat to join the staffchat.\
 Permission: minetopiasdb.staffchat
