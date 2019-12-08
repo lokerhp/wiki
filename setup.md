@@ -9,7 +9,7 @@ Deze setup guide is alleen geldig voor MinetopiaSDB v2.0 of hoger
 ## Dependencies
 
 | Serverversie    | WorldEdit | WorldGuard | Essentials | Vault | Citizens (niet verplicht!) |
-| --------------- | ---------------- | ---------------- | ---------------- | ---------------- |
+| --------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
 | 1.9.4           | [Download](https://dev.bukkit.org/projects/worldedit/files/2460562/download) | [Download](https://dev.bukkit.org/projects/worldguard/files/956770/download) | [Download](https://www.spigotmc.org/resources/essentialsx.9089/download?version=286847) |
 | 1.10.2          | [Download](https://dev.bukkit.org/projects/worldedit/files/2460562/download) | [Download](https://dev.bukkit.org/projects/worldguard/files/956770/download) | [Download](https://www.spigotmc.org/resources/essentialsx.9089/download?version=286847) |
 | 1.11.2          | [Download](https://dev.bukkit.org/projects/worldedit/files/2460562/download) | [Download](https://dev.bukkit.org/projects/worldguard/files/956770/download) | [Download](https://www.spigotmc.org/resources/essentialsx.9089/download?version=286847) |
