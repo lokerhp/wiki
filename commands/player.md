@@ -1,3 +1,5 @@
+# Speler commands
+
 **/sdb**
 Omschrijving: Gebruik /sdb voor de hulppagina.
 
