@@ -51,12 +51,12 @@ Om gebruik te maken van MySQL moet je ``Enabled:`` op true zetten waarna je jouw
 Het opslaan van data is in de v2 update van MinetopiaSDB een stuk efficiënter geworden. Dit betekent helaas ook dat de oude v1 data niet zomaar overgezet kan worden. Hiervoor moet de data omgezet worden. Om dit probleem op te lossen hebben we een datamigratie dienst gelanceerd. Met deze dienst is het mogelijk om tegen een kleine betaling jouw data te laten converteren naar de v2 data waardoor je alle spelerdata behoudt.
 
 
-## Waarom kost dit geld? Ik dacht dat MinetopiaSDB gratis was?
+### Waarom kost dit geld? Ik dacht dat MinetopiaSDB gratis was?
 
 MinetopiaSDB is en blijft gratis. Het migreren van data is immers vrijwillig. Je kunt prima door gaan met jouw server zonder data om te zetten, alhoewel dit zal betekenen dat jouw spelers weer vanaf 0 moeten beginnen.
 
 
-## Ik wil mijn data laten migreren naar v2 data, hoe moet dat?
+### Ik wil mijn data laten migreren naar v2 data, hoe moet dat?
 
 Dat kan door een emailtje te sturen naar [datamigratie@minetopiasdb.nl](mailto:datamigratie@minetopiasdb.nl).
 
@@ -67,4 +67,4 @@ Dat kan door een emailtje te sturen naar [datamigratie@minetopiasdb.nl](mailto:d
 | < 10.000        | € 4     |
 | > 10.000        | € 6     |
 
-* = alleen wanneer jouw server niet commercieel is en geen winkel heeft.
+\* = alleen wanneer jouw server niet commercieel is en geen winkel heeft.
