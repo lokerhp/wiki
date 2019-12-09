@@ -17,6 +17,10 @@ Deze setup guide is alleen geldig voor MinetopiaSDB v2.0 of hoger!
 | 1.13.2          | [Download](https://dev.bukkit.org/projects/worldedit/files/2760373/download) | [Download](https://dev.bukkit.org/projects/worldguard/files/956770/download) | [Download](https://www.spigotmc.org/resources/essentialsx.9089/download?version=286847) | [Download](https://dev.bukkit.org/projects/vault/files/2704903/download) | [Download](https://ci.citizensnpcs.co/job/citizens2/1687/) |
 | 1.14.4          | [Download](https://dev.bukkit.org/projects/worldedit/files/2760373/download) | [Download](https://dev.bukkit.org/projects/worldguard/files/956770/download) | [Download](https://www.spigotmc.org/resources/essentialsx.9089/download?version=286847) | [Download](https://dev.bukkit.org/projects/vault/files/2704903/download) | [Download](https://ci.citizensnpcs.co/job/citizens2/1752/) |
 
+## Hoe moet ik beginnen?
+
+Heel makkelijk, je downloadt de goede versie van alle vereisten (en natuurlijk MinetopiaSDB zelf) en zet deze in jouw ``plugins`` mapje. Als je dit hebt gedaan, kun je jouw server opstarten. Als alles lijkt te werken kun je een wereld toevoegen met /mtworld add \<Wereld\> en kun je echt van start met jouw Minetopia server!
+
 ## Database setup
 
 ::: tip
