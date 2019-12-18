@@ -1,34 +1,34 @@
 # Ingebouwde Placeholders
 
 ::: tip
-Je kunt deze berichten ook in de Message.yml gebruiken door er ``Player`` voor te zetten, bijvoorbeeld ``&ltPlayerLuckyShards&gt;`` i.p.v. ``&ltLuckyShards&gt;``
+Je kunt deze berichten ook in de Message.yml gebruiken door er ``Player`` voor te zetten, bijvoorbeeld ``&lt;PlayerLuckyShards&gt;`` i.p.v. ``&lt;LuckyShards&gt;``
 :::
 
 | Placeholder          | Uitleg                                       |
 | :---------------     | :----------------                            |
-| &ltName&gt;               | De UUID van de speler                        |
-| &ltUUID&gt;               | De gebruikersnaam van de speler              |
-| &ltLevelcolor&gt;         | De levelkleur van de speler                  |
-| &ltPrefixcolor&gt;        | De prefixkleur van de speler                 |
-| &ltNamecolor&gt;          | De naamkleur van de speler                   |
-| &ltChatcolor&gt;          | De chatkleur van de speler                   |
-| &ltLevel&gt;              | Het level van de speler                      |
-| &ltPrefix&gt;             | De prefix van de speler                      |
-| &ltLuckyShards&gt;        | Het aantal luckyshards van de speler         |
-| &ltBalance&gt;            | Het banksaldo van de speler                  |
-| &ltFitness&gt;            | De fitheid van de speler                     |
-| &ltTimeDays&gt;           | Het aantal online dagen van de speler        |
-| &ltTimeHours&gt;          | Het aantal online uren van de speler         |
-| &ltTimeMinutes&gt;        | Het aantal online minuten van de speler      |
-| &ltTimeSeconds&gt;        | Het aantal online seconden van de speler     |
-| &ltWorld&gt;              | De huidige wereld- of stadnaam               |
-| &ltWorldcolor&gt;         | De huidige wereldkleur                       |
-| &ltOppositeWorldcolor&gt; | De tegenovergestelde wereldkleur             |
-| &ltTemperature&gt;        | De huidige temperatuur                       |
-| &ltLoadingName&gt;        | De wereldnaam die in de jointitle staat      |
-| &ltMaxFit&gt;             | Maximale fitheid (normaal. 225)              |
-| &ltDate&gt;               | De huidige datum                             |
-| &ltTime&gt;               | De huidige tijd                              |
-| &ltCalcLevel&gt;          | Het automatisch berekende level              |
-| &ltLevelUps&gt;           | Het verschil tussen huidig en berekend level |
-| &ltPlotDescription&gt;    | Beschrijving van het huidige plot            |
+| &lt;Name&gt;               | De UUID van de speler                        |
+| &lt;UUID&gt;               | De gebruikersnaam van de speler              |
+| &lt;Levelcolor&gt;         | De levelkleur van de speler                  |
+| &lt;Prefixcolor&gt;        | De prefixkleur van de speler                 |
+| &lt;Namecolor&gt;          | De naamkleur van de speler                   |
+| &lt;Chatcolor&gt;          | De chatkleur van de speler                   |
+| &lt;Level&gt;              | Het level van de speler                      |
+| &lt;Prefix&gt;             | De prefix van de speler                      |
+| &lt;LuckyShards&gt;        | Het aantal luckyshards van de speler         |
+| &lt;Balance&gt;            | Het banksaldo van de speler                  |
+| &lt;Fitness&gt;            | De fitheid van de speler                     |
+| &lt;TimeDays&gt;           | Het aantal online dagen van de speler        |
+| &lt;TimeHours&gt;          | Het aantal online uren van de speler         |
+| &lt;TimeMinutes&gt;        | Het aantal online minuten van de speler      |
+| &lt;TimeSeconds&gt;        | Het aantal online seconden van de speler     |
+| &lt;World&gt;              | De huidige wereld- of stadnaam               |
+| &lt;Worldcolor&gt;         | De huidige wereldkleur                       |
+| &lt;OppositeWorldcolor&gt; | De tegenovergestelde wereldkleur             |
+| &lt;Temperature&gt;        | De huidige temperatuur                       |
+| &lt;LoadingName&gt;        | De wereldnaam die in de jointitle staat      |
+| &lt;MaxFit&gt;             | Maximale fitheid (normaal. 225)              |
+| &lt;Date&gt;               | De huidige datum                             |
+| &lt;Time&gt;               | De huidige tijd                              |
+| &lt;CalcLevel&gt;          | Het automatisch berekende level              |
+| &lt;LevelUps&gt;           | Het verschil tussen huidig en berekend level |
+| &lt;PlotDescription&gt;    | Beschrijving van het huidige plot            |
