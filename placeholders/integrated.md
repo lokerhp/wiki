@@ -4,8 +4,8 @@
 Je kunt deze berichten ook in de Message.yml gebruiken door er ``Player`` voor te zetten, bijvoorbeeld ``&lt;PlayerLuckyShards&gt;`` i.p.v. ``&lt;LuckyShards&gt;``
 :::
 
-| Placeholder          | Uitleg                                       |
-| :---------------     | :----------------                            |
+| Placeholder                | Uitleg                                       |
+| :---------------           | :----------------                            |
 | &lt;Name&gt;               | De UUID van de speler                        |
 | &lt;UUID&gt;               | De gebruikersnaam van de speler              |
 | &lt;Levelcolor&gt;         | De levelkleur van de speler                  |
