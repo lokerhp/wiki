@@ -58,6 +58,14 @@ module.exports = {
               '/perms/staff'
             ]
           },
+          {
+            title: 'Placeholders',
+            collapsable: false,
+            children: [
+              '/placeholders/integrated',
+              '/placeholders/placeholderapi'
+            ]
+          },
         ]
       },
       '/en/': {
@@ -95,6 +103,14 @@ module.exports = {
               '/en/perms/player',
               '/en/perms/government',
               '/en/perms/staff'
+            ]
+          },
+          {
+            title: 'Placeholders',
+            collapsable: false,
+            children: [
+              '/en/placeholders/integrated',
+              '/en/placeholders/placeholderapi'
             ]
           },
         ]
