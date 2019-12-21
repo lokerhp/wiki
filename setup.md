@@ -19,7 +19,7 @@ Deze setup guide is alleen geldig voor MinetopiaSDB v2.0 of hoger!
 
 ## Hoe moet ik beginnen?
 
-Heel makkelijk, je downloadt de goede versie van alle vereisten (en natuurlijk MinetopiaSDB zelf) en zet deze in jouw ``plugins`` mapje. Als je dit hebt gedaan, kun je jouw server opstarten. Als alles lijkt te werken kun je een wereld toevoegen met /mtworld add \<Wereld\> en kun je echt van start met jouw Minetopia server!
+Heel makkelijk, je downloadt de goede versie van alle dependencies (en natuurlijk MinetopiaSDB zelf) en zet deze in jouw ``plugins`` mapje. Als je dit hebt gedaan, kun je jouw server opstarten. Als alles lijkt te werken kun je een wereld toevoegen met /mtworld add \<Wereld\> en kun je echt van start met jouw Minetopia server!
 
 ## Database setup
 
@@ -36,7 +36,7 @@ Multiserver:
 
 Een van de leukste nieuwe features aan MinetopiaSDB v2 is de ondersteuning voor MySQL databases. Het is nu mogelijk om data op te slaan in een database en op die manier jouw data in meerdere servers te gebruiken (en op die manier jouw spelers ook over verschillende servers te verspreiden.) 
 
-Het is niet verplicht om een database in te stellen, als je niets instelt maak je automatisch gebruik van een lokale SQLite database. De normale MySQL instellingen zien er zo uit:
+Het is niet verplicht om een database in te stellen, als je niets instelt maak je automatisch gebruik van een lokale SQLite database. De standaard MySQL instellingen zien er zo uit:
 ```yml
 MySQL:
   Enabled: false
@@ -71,4 +71,4 @@ Dat kan door een emailtje te sturen naar [datamigratie@minetopiasdb.nl](mailto:d
 | < 10.000        | € 4     |
 | > 10.000        | € 6     |
 
-\* = alleen wanneer jouw server niet commercieel is en geen winkel heeft.
+\* = alleen wanneer jouw server niet commercieel is en geen webshop heeft.
