@@ -1,1 +1,1 @@
-# PlaceholderAPI Placeholders
+# PlaceholderAPI placeholders
