@@ -6,8 +6,8 @@ Je kunt deze berichten ook in de Message.yml gebruiken door er ``Player`` voor t
 
 | Placeholder                | Uitleg                                       |
 | :---------------           | :----------------                            |
-| &lt;Name&gt;               | De UUID van de speler                        |
-| &lt;UUID&gt;               | De gebruikersnaam van de speler              |
+| &lt;Name&gt;               | De gebruikersnaam van de speler              |
+| &lt;UUID&gt;               | De UUID van de speler                        |
 | &lt;Levelcolor&gt;         | De levelkleur van de speler                  |
 | &lt;Prefixcolor&gt;        | De prefixkleur van de speler                 |
 | &lt;Namecolor&gt;          | De naamkleur van de speler                   |
