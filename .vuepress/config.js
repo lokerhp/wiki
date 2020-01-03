@@ -39,6 +39,7 @@ module.exports = {
             children: [
               '/',
               '/setup',
+              '/bungeecord',
               '/faq'
             ]
           },
@@ -86,7 +87,9 @@ module.exports = {
             collapsable: false,
             children: [
               '/en/',
-              '/en/setup'
+              '/en/setup',
+              '/en/bungeecord',
+              '/en/faq'
             ]
           },
           {
