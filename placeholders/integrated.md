@@ -1,7 +1,7 @@
 # Ingebouwde placeholders
 
 ::: tip
-Je kunt deze berichten ook in de Message.yml gebruiken door er ``Player`` voor te zetten, bijvoorbeeld ``&lt;PlayerLuckyShards&gt;`` i.p.v. ``&lt;LuckyShards&gt;``
+Je kunt deze berichten ook in de Message.yml gebruiken door er ``Player`` voor te zetten, bijvoorbeeld ``<PlayerLuckyShards>`` i.p.v. ``<LuckyShards>``
 :::
 
 | Placeholder                | Uitleg                                       |
