@@ -20,12 +20,7 @@ This setup guide is for MinetopiaSDB v2.0 and up!
 ## Database setup
 
 ::: tip
-Do you want to use MinetopiaSDB over multiple servers with Bungeecord? Than change the value of ``Enabled:`` to true here:
-```
-Multiserver:
-  MessageChannels:
-    Enabled: true
-``` 
+Do you want to use MinetopiaSDB over multiple servers with Bungeecord? Check [this](./en/bungeecord.md) page.
 :::
 
 
