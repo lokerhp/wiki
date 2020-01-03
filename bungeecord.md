@@ -1,9 +1,11 @@
 # BungeeCord
 
-Wil je MinetopiaSDB met meerdere servers via Bungeecord gebruiken? Dat kan, vanaf v2.0! Om dit voor elkaar te krijgen moet je een paar dingen aanpassen. Ten eerste moet je [MySQL instellen](./setup.md#database-setup), vervolgens moet je in de config.yml bij  ```yml
+Wil je MinetopiaSDB met meerdere servers via Bungeecord gebruiken? Dat kan, vanaf v2.0! Om dit voor elkaar te krijgen moet je een paar dingen aanpassen. Ten eerste moet je [MySQL instellen](./setup.md#database-setup), vervolgens moet je in de config.yml bij
+```yml
 Multiserver:
   MessageChannels:
-    Enabled: false```
+    Enabled: false
+``` 
 
 ``Enabled:`` op true zetten. Als je dit beide hebt ingesteld wordt al jouw MinetopiaSDB gesynchroniseerd over alle Minetopia servers.
 
