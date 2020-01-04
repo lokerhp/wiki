@@ -1,5 +1,5 @@
 # Permissions
 
 ::: tip
-Op deze pagina staan alleen de permissies voor functies die niet aan een commands gebonden zijn. Voor de permissies van commands moet je op de [player commands](./commands/player) en [admin commands](./commands/admin) pagina's.
+Op deze pagina staan alleen de permissies voor functies die niet aan een commands gebonden zijn. Voor de permissies van commands moet je op de [player commands](./commands/player) en [admin commands](./commands/admin) pagina's kijken.
 :::
