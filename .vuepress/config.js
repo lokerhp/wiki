@@ -128,12 +128,5 @@ module.exports = {
         require('css-prefers-color-scheme/postcss'), 
         require('autoprefixer')
       ]
-    },
-    configureWebpack: {
-      resolve: {
-        alias: {
-          '@img': 'img'
-        }
-      }
     }
   }
