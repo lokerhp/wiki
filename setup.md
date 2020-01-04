@@ -24,7 +24,7 @@ Heel makkelijk, je downloadt de goede versie van alle dependencies (en natuurlij
 ## Database setup
 
 ::: tip
-Wil je MinetopiaSDB met meerdere servers via Bungeecord gebruiken? Kijk dan even op [deze](./bungeecord.md) pagina.
+Wil je MinetopiaSDB met meerdere servers via BungeeCord gebruiken? Kijk dan even op [deze](./bungeecord.md) pagina.
 :::
 
 
