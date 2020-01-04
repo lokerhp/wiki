@@ -12,4 +12,4 @@ To create a payment request, use the command ``/pin set <Player> <Amount>`` afte
 If the player wants to pay for the payment request you have sent, he can do so by clicking on the pin console with a bankcard that you can get from ``/ddgitems``. If the player has clicked on the pin console with his bankcard, the transaction is completed and the money is transferred from the players account to the company's bankaccount.
 
 If the player who sends the paymentrequest only has one bankaccount, that bankaccount gets selected automatically, if the player has multiple bankaccounts the player needs to include the ID of the bankaccount in the ``/pin set`` command.
-![Pinconsole bankaccount select](../../pinconsole_multiple_bankaccounts_en.png)
+![Pinconsole bankaccount select](../../pinconsole_multiple_bankaccounts_nl.png)
