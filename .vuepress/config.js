@@ -98,7 +98,8 @@ module.exports = {
             collapsable: false,
             children: [
               '/en/commands/player',
-              '/en/commands/admin'
+              '/en/commands/admin',
+              '/en/commands/banking'
             ]
           },
           {
