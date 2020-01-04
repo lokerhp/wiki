@@ -40,7 +40,8 @@ module.exports = {
               '/',
               '/setup',
               '/bungeecord',
-              '/faq'
+              '/faq',
+              '/permissions'
             ]
           },
           {
@@ -53,20 +54,18 @@ module.exports = {
             ]
           },
           {
-            title: 'Permissions',
-            collapsable: false,
-            children: [
-              '/perms/player',
-              '/perms/government',
-              '/perms/staff'
-            ]
-          },
-          {
             title: 'Placeholders',
             collapsable: false,
             children: [
               '/placeholders/integrated',
               '/placeholders/placeholderapi'
+            ]
+          },
+          {
+            title: 'Tutorials',
+            collapsable: false,
+            children: [
+              '/tutorials/detectiongate'
             ]
           },
         ]
@@ -90,7 +89,8 @@ module.exports = {
               '/en/',
               '/en/setup',
               '/en/bungeecord',
-              '/en/faq'
+              '/en/faq',
+              '/en/permissions'
             ]
           },
           {
@@ -103,20 +103,18 @@ module.exports = {
             ]
           },
           {
-            title: 'Permissions',
-            collapsable: false,
-            children: [
-              '/en/perms/player',
-              '/en/perms/government',
-              '/en/perms/staff'
-            ]
-          },
-          {
             title: 'Placeholders',
             collapsable: false,
             children: [
               '/en/placeholders/integrated',
               '/en/placeholders/placeholderapi'
+            ]
+          },
+          {
+            title: 'Tutorials',
+            collapsable: false,
+            children: [
+              '/en/tutorials/detectiongate'
             ]
           },
         ]
