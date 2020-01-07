@@ -14,7 +14,9 @@ You can also use these placeholders in the Message.yml file by adding ``Player``
 | &lt;Chatcolor&gt;          | The chatcolor of this player                        |
 | &lt;Level&gt;              | The level of this player                            |
 | &lt;Prefix&gt;             | The prefix of this player                           |
+| &lt;GrayCoin&gt;           | The amount of graycoins this player has             |
 | &lt;LuckyShards&gt;        | The amount of luckyshards this player has           |
+| &lt;GoldShards&gt;         | The amount of goldshards this player has            |
 | &lt;Balance&gt;            | The bank balance of this player                     |
 | &lt;Fitness&gt;            | The fitness of this player                          |
 | &lt;TimeDays&gt;           | The amount of online days this player has           |
