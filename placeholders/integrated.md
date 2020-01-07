@@ -15,6 +15,7 @@ Je kunt deze berichten ook in de Message.yml gebruiken door er ``Player`` voor t
 | &lt;Level&gt;              | Het level van de speler                      |
 | &lt;Prefix&gt;             | De prefix van de speler                      |
 | &lt;LuckyShards&gt;        | Het aantal luckyshards van de speler         |
+| &lt;GoldShards&gt;         | Het aantal goldshards van de speler          |
 | &lt;Balance&gt;            | Het banksaldo van de speler                  |
 | &lt;Fitness&gt;            | De fitheid van de speler                     |
 | &lt;TimeDays&gt;           | Het aantal online dagen van de speler        |
