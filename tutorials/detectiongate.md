@@ -1,6 +1,6 @@
 # Detectiepoortjes setup
 
-Met detectiepoortjes kan je zien of iemand illegale items bij zich heeft, zoals wapens en messen. Je kan detectiepoortjes goed gebruiken bij bijvoorbeeld een politiebureau, legerbasis of gevangenis.
+Met detectiepoortjes kan je zien of iemand illegale items bij zich heeft, zoals bijvoorbeeld wapens. Je kunt detectiepoortjes goed gebruiken bij bijvoorbeeld een politiebureau, legerbasis of gevangenis.
 
 ## Hoe maak je een detectiepoortje?
 
@@ -28,4 +28,4 @@ DetectionGate:
   ToggleGateRange: 3
   WoolblockChangeRadius: 4
 ```
-Bij Items kan je instellen bij welke spullen de poortjes af moeten gaan, bij ToggleGateRange kan je instellen in welke radius er poortjes open moeten springen en bij WoolblockChangeRadius kan je instellen in welke radius er wol blokken van kleur moeten veranderen op basis van de items in de inventory.
+Bij ``Items`` kan je instellen bij welke materialen de poortjes af moeten gaan, bij ``ToggleGateRange`` kan je instellen in welke radius er poortjes open moeten springen en bij ``WoolblockChangeRadius`` kan je instellen in welke radius de wol blokken van kleur moeten veranderen.
