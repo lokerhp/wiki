@@ -12,9 +12,9 @@ module.exports = {
     ['link', {rel: 'manifest', href: '/manifest.json'}],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes'}],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black'}],
-    ['meta', {name: 'msapplication-TileColor', content: '#5a6b89'}],
+    ['meta', {name: 'msapplication-TileColor', content: '#25272a'}],
     ['meta', { name: 'msapplication-TileImage', content: '/mstile-150x150.png'}],
-    ['meta', {name: 'theme-color', content: '#5a6b89'}]
+    ['meta', {name: 'theme-color', content: '#25272a'}]
   ],
   plugins: ['@vuepress/pwa', {
     serviceWorker: true,
