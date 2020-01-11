@@ -1,8 +1,8 @@
 {
   "name": "MinetopiaSDB",
   "short_name": "SDB",
-  "theme_color": "#5a6b89",
-  "background_color": "#5a6b89",
+  "theme_color": "#25272a",
+  "background_color": "#25272a",
   "display": "standalone",
   "orientation": "portrait",
   "Scope": "/",
