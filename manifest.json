@@ -5,8 +5,8 @@
   "background_color": "#25272a",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "https://minetopiasdb.nl/",
-  "start_url": "https://minetopiasdb.nl/",
+  "scope": "/",
+  "start_url": "/",
   "icons": [
     {
       "src": "android-chrome-192x192.png",
