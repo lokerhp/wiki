@@ -13,7 +13,8 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black'}],
     ['meta', {name: 'msapplication-TileColor', content: '#25272a'}],
     ['meta', { name: 'msapplication-TileImage', content: 'mstile-150x150.png'}],
-    ['meta', {name: 'theme-color', content: '#25272a'}]
+    ['meta', {name: 'theme-color', content: '#25272a'}],
+    ['link', {rel: 'dns-prefetch', href: 'https://storage.googleapis.com'}]
   ],
   plugins: ['@vuepress/pwa', {
     serviceWorker: true,
