@@ -17,6 +17,10 @@ module.exports = {
     ['meta', { name: 'msapplication-TileImage', content: '/mstile-150x150.png'}],
     ['meta', {name: 'theme-color', content: '#5a6b89'}]
   ],
+  plugins: ['@vuepress/pwa', {
+    serviceWorker: true,
+    updatePopup: true
+}],
   locales: {
     '/': {
       lang: 'nl-NL',

@@ -1,0 +1,23 @@
+{
+  "name": "MinetopiaSDB",
+  "short_name": "SDB",
+  "theme_color": "#5a6b89",
+  "background_color": "#5a6b89",
+  "display": "standalone",
+  "orientation": "portrait",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
