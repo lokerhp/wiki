@@ -65,7 +65,8 @@ module.exports = {
             title: 'Tutorials',
             collapsable: false,
             children: [
-              '/tutorials/detectiongate'
+              '/tutorials/detectiongate',
+              '/tutorials/levelchecknpc'
             ]
           },
         ]
@@ -114,7 +115,8 @@ module.exports = {
             title: 'Tutorials',
             collapsable: false,
             children: [
-              '/en/tutorials/detectiongate'
+              '/en/tutorials/detectiongate',
+              '/en/tutorials/levelchecknpc'
             ]
           },
         ]
