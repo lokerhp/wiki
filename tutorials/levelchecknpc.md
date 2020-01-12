@@ -8,7 +8,9 @@ Om deze functionaliteit te gebruiken moet je Citizens geïnstalleerd hebben. Kij
 
 ## Commands
 
-Om een levelcheck npc in te spawnen gebruik je het command ``/levelcheck``. Let op! Hiervoor heb je wel de permission ``minetopiasdb.levelcheck`` nodig. Naast een levelcheck npc kan je ook een verkiezingnpc instellen, hiervoor gebruik je het command ``/verkiezing``, om dat command te gebruiken heb je de permission ``minetopiasdb.verkiezing`` nodig.
+Om een levelcheck npc in te spawnen gebruik je het command ``/levelcheck npc``. Let op! Hiervoor heb je wel de permission ``minetopiasdb.levelcheck`` nodig. 
+
+![LevelcheckNPC setup](./levelchecknpc_setup.png)
 
 ## Aanpassingen
 
