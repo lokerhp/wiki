@@ -4,9 +4,11 @@ Met detectiepoortjes kan je zien of iemand illegale items bij zich heeft, zoals 
 
 ## Hoe maak je een detectiepoortje?
 
+![Detectiongate setup](./detectiongate_setup_1.png)
+
 Plaats een iron block op de grond en zet daar een golden pressure plate op. Zet daarboven of daarnaast 1 of meerdere zwarte wol blokken.
 
-![Detectiongate setup](./detectiongate_setup.gif)
+![Detectiongate setup2](./detectiongate_setup_2.png)
 
 ## Config
 
