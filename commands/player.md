@@ -1,5 +1,20 @@
 # Speler commands
 
+**/graycoin**\
+Omschrijving: Gebruik graycoins.\
+Permissie: minetopiasdb.graycoin (voor het geven en verwijderen van graycoins).\
+Aliases: /graycoins
+
+**/goldshard**\
+Omschrijving: Gebruik goldshards.\
+Permissie: minetopiasdb.goldshard (voor het geven en verwijderen van goldshards).\
+Aliases: /goldshards
+
+**/luckyshard**\
+Omschrijving: Gebruik luckyshards.\
+Permissie: minetopiasdb.luckyshard (voor het geven en verwijderen van luckyshards).\
+Aliases: /luckyshards
+
 **/chatcolor**\
 Omschrijving: Met /chatkleur kan je chatkleuren aan spelers geven of chatkleuren aanpassen.\
 Permissie: minetopiasdb.chatcolor (voor het geven en verwijderen van chatkleuren)\
