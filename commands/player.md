@@ -80,5 +80,5 @@ Permissie: Geen!
 
 **/112**\
 Omschrijving: Gebruik /112 om de politie te bellen.\
-Permissie: minetopiasdb.112.send\
+Permissie: minetopiasdb.112.send om berichten te versturen, minetopiasdb.112.receive om berichten te ontvangen.\
 Aliases: /emergency, /911
