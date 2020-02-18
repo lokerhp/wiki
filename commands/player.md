@@ -1,9 +1,5 @@
 # Speler commands
 
-**/head**\
-Omschrijving: Gebruik /head om het item wat je vast hebt op je hoofd te zetten.\
-Permissie: Geen!
-
 **/chatcolor**\
 Omschrijving: Met /chatkleur kan je chatkleuren aan spelers geven of chatkleuren aanpassen.\
 Permissie: minetopiasdb.chatcolor (voor het geven en verwijderen van chatkleuren)\
@@ -18,6 +14,10 @@ Aliases: /prefixkleur
 Omschrijving: Met /levelkleur kan je levelkleuren aan spelers geven of levelkleuren aanpassen.\
 Permissie: minetopiasdb.levelcolor (voor het geven en verwijderen van levelkleuren)\
 Aliases: /levelkleur
+
+**/head**\
+Omschrijving: Gebruik /head om het item wat je vast hebt op je hoofd te zetten.\
+Permissie: Geen!
 
 **/scoreboard**\
 Omschrijving: Met /scoreboard kan je jouw scoreboard aan of uit zetten.\
