@@ -53,7 +53,22 @@ Aliases: /sleutel
 **/book**\
 Omschrijving: Maak boekjes voor (o.a.) boetes, rijbewijzen, ID-bewijzen.\
 Permissie: minetopiasdb.book\
-Aliases: /boek
+Aliases: /boek\
+Permissies per boek:
+Permissies:
+| Permissie                          | Beschrijving |
+| :--------------------------------- | :----------- |
+| minetopiasdb.book.fine             | Schrijf boetes uit |
+| minetopiasdb.book.receipt          | Maak gemakkelijk betaalbewijzen |
+| minetopiasdb.book.identification   | Maak snel ID bewijzen aan |
+| minetopiasdb.book.kvk              | Maak boekjes om de KvK inschrijvingen op te slaan |
+| minetopiasdb.book.plotregistration | Maak gemakkelijk plotbewijzen |
+| minetopiasdb.book.driverslicense   | Schrijf rijbewijzen uit |
+| minetopiasdb.book.permit           | Maak gemakkelijk vergunningen |
+| minetopiasdb.book.vog              | Maak een VOG (verklaring omtrent gedrag) |
+| minetopiasdb.book.diploma          | Maak gemakkelijk een diploma |
+| minetopiasdb.book.prescription     | Maak gemakkelijk recepten voor medicijnen |
+| minetopiasdb.book.cheque           | Schrijf cheques uit |
 
 **/deathban**\
 Omschrijving: Met /deathban kan je de deathban in- of uitschakelen en spelers met een deathban unbannen.\
