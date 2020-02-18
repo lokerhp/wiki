@@ -32,7 +32,7 @@ Aliases: /levelkleur
 
 **/head**\
 Omschrijving: Gebruik /head om het item wat je vast hebt op je hoofd te zetten.\
-Permissie: Geen!
+Permissie: minetopiasdb.head om items toe te voegen of te verwijderen.
 
 **/scoreboard**\
 Omschrijving: Met /scoreboard kan je jouw scoreboard aan of uit zetten.\
@@ -64,6 +64,10 @@ Permissies:
 | minetopiasdb.plot.list           | Krijg een lijst van alle vrije plots en alle plots van een speler |
 | minetopiasdb.plot.calculate      | Bereken de prijs van een plot |
 | minetopiasdb.plot.setdescription | Verander de beschrijving van een plot |
+
+**/prefix**\
+Omschrijving: Gebruik /prefix om jouw prefixmenu te openen.\
+Permissie: minetopiasdb.prefix om prefixes toe te voegen of te verwijderen.
 
 **/booster**\
 Omschrijving: Gebruik /booster om luckyshard boosters te geven, verwijderen en te activeren.\
