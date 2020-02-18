@@ -71,7 +71,7 @@ Permissie: Geen!
 
 **/fitnessreset**\
 Omschrijving: Geef spelers toegang tot fitheidresets die ze zelf kunnen activeren.\
-Permissie: Geen!\
+Permissie: minetopiasdb.fitnessreset om resets toe te voegen of te verwijderen.\
 Aliases: /fitheidreset
 
 **/pin**\
