@@ -6,17 +6,17 @@ Permissie: Geen!
 
 **/chatcolor**\
 Omschrijving: Met /chatkleur kan je chatkleuren aan spelers geven of chatkleuren aanpassen.\
-Permissie: Geen!\
+Permissie: minetopiasdb.chatcolor (voor het geven en verwijderen van chatkleuren)\
 Aliases: /chatkleur
 
 **/prefixcolor**\
 Omschrijving: Met /prefixkleur kan je prefixkleuren aan spelers geven of prefixkleuren aanpassen.\
-Permissie: Geen!\
+Permissie: minetopiasdb.prefixcolor (voor het geven en verwijderen van prefixkleuren)\
 Aliases: /prefixkleur
 
 **/levelcolor**\
 Omschrijving: Met /levelkleur kan je levelkleuren aan spelers geven of levelkleuren aanpassen.\
-Permissie: Geen!\
+Permissie: minetopiasdb.levelcolor (voor het geven en verwijderen van levelkleuren)\
 Aliases: /levelkleur
 
 **/scoreboard**\
