@@ -103,11 +103,6 @@ Omschrijving: Gebruik /telefoon om telefoons te krijgen en beltegoed te beheren.
 Permissie: minetopiasdb.phone\
 Aliases: /telefoon, /beltegoed
 
-**/prefix**\
-Omschrijving: Gebruik /prefix om jouw prefixmenu te openen.\
-Permissie: minetopiasdb.prefix\
-Aliases: /telefoon, /beltegoed
-
 **/realmoney**\
 Omschrijving: Spawn echt geld in en toggle het bestaan van nepgeld.\
 Permissie: minetopiasdb.realmoney\
