@@ -33,7 +33,7 @@ module.exports = {
     }
   },
   themeConfig: {
-    logo: '/favicon-32x32.png',
+    logo: '/favicon-194x194.png',
     repo: 'minetopiasdb/docs',
     repoLabel: 'Contribute',
     editLinks: true,
