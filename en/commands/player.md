@@ -36,7 +36,19 @@ Aliases: /pinfo, /pi
 
 **/plot**\
 Description: With /plot you can do things such as modify the (co)owners of a plot, create and remove plots.\
-Permission: None!
+Permissions:
+| Permissions                      | Description  |
+| :------------------------------- | :----------- |
+| minetopiasdb.plot.addowner       | Add a player as an owner of this plot |
+| minetopiasdb.plot.removeowner    | Remove a player as an owner of this plot |
+| minetopiasdb.plot.addmember      | Add a player as a member of this plot (this permission is **NOT** required if you are the plot owner) |
+| minetopiasdb.plot.removemember   | Remove a player as a member of this plot (this permission is **NOT** required if you are the plot owner) |
+| minetopiasdb.plot.tp             | Teleport to a plot |
+| minetopiasdb.plot.clear          | Remove all (co-)owners from a plot |
+| minetopiasdb.plot.inactive       | Get a list from all inactive plots |
+| minetopiasdb.plot.list           | Get a list of all free plots and all plots that a player owns |
+| minetopiasdb.plot.calculate      | Calculate the price of the plot |
+| minetopiasdb.plot.setdescription | Change the description of a plot |
 
 **/booster**\
 Description: Use /booster to give, remove and activate luckyshard boosters.\
