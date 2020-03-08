@@ -58,7 +58,7 @@ MinetopiaSDB is en blijft gratis. Het migreren van data is immers vrijwillig. Je
 
 Dat kan door een emailtje te sturen naar [datamigratie@minetopiasdb.nl](mailto:datamigratie@minetopiasdb.nl).
 
-| Spelersaantal   | Prijs   |
+| Unieke spelers  | Prijs   |
 | --------------- | ------- |
 | < 100           | Gratis* |
 | < 2.000         | € 2     |
