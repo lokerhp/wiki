@@ -1,9 +1,9 @@
 {
-  "name": "SDBDocs",
+  "name": "sdbdocs",
   "version": "1.0.0",
-  "description": "Official Documentation for MinetopiaSDB",
+  "description": "Official MinetopiaSDB Documentation",
   "main": "index.js",
-  "author": "ljavanbeek <info@lucasvanbeek.nl>",
+  "author": "Lucas van Beek <info@lucasvanbeek.nl> & MrWouter <mail@mrwouter.nl>",
   "license": "MIT",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.2.0",
