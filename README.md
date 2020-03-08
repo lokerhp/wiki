@@ -21,5 +21,5 @@ Ben je al overtuigd? Kijk dan snel op de [setup](setup.md) pagina om van start t
 * [Pinconsoles](commands/banking.md#hoe-gebruik-ik-pinconsoles) zodat mensen met de pinpas kunnen betalen
 * Mogelijkheid om bijna alle berichten aan te passen
 * Een [developer API](https://docs.minetopiasdb.nl)
-* **Nieuw:** Verdeel nu je steden over meerdere servers met de bungeecord functionaliteit!
+* **Nieuw:** Verdeel nu je steden over meerdere servers met de BungeeCord functionaliteit!
 
