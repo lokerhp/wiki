@@ -17,6 +17,10 @@ This setup guide is for MinetopiaSDB v2.0 and up!
 | 1.13.2 | [Download](https://dev.bukkit.org/projects/worldedit/files/2760373/download) | [Download](https://dev.bukkit.org/projects/worldguard/files/956770/download) | [Download](https://www.spigotmc.org/resources/essentialsx.9089/download?version=286847) | [Download](https://dev.bukkit.org/projects/vault/files/2704903/download) | [Download](https://ci.citizensnpcs.co/job/citizens2/1687/) |
 | 1.14.4 | [Download](https://dev.bukkit.org/projects/worldedit/files/2760373/download) | [Download](https://dev.bukkit.org/projects/worldguard/files/956770/download) | [Download](https://www.spigotmc.org/resources/essentialsx.9089/download?version=286847) | [Download](https://dev.bukkit.org/projects/vault/files/2704903/download) | [Download](https://ci.citizensnpcs.co/job/citizens2/1752/) |
 
+## How to start
+
+It's really simple, you download all the dependencies (and MinetopiaSDB itself ofcourse) and put them in your `plugins` folder. You can now start your server. If everything seems to work fine you can add your world using `/mtworld add <WorldName>` and get started with your Minetopia server!
+
 ## Database setup
 
 ::: tip
@@ -26,8 +30,8 @@ Do you want to use MinetopiaSDB over multiple servers with Bungeecord? Check [th
 
 One of the best new features of MinetopiaSDB v2 is MySQL database support. It is now possible to store data in a database and synchronise your data across multiple servers.
 
-It is not required to set up a database, if you do not set anything you will automatically use a local SQLite database. The normal MySQL settings look like this:
-```
+It is not required to set up a database, if you do not set anything you will automatically use a local SQLite database. The default MySQL settings look like this:
+```yml
 MySQL:
   Enabled: false
   Username: root
@@ -48,7 +52,7 @@ MinetopiaSDB is and remains free. After all, migrating data is voluntary. You ca
 ### I want to migrate my data to the new data, how can I do this?
 You can convert your data by sending an email to [datamigration@minetopiasdb.nl](mailto:datamigration@minetopiasdb.nl).
 
-| Playercount     | Price |
+| Unique Players  | Price |
 | --------------- | ----- |
 | < 100           | Free* |
 | < 2.000         | € 2   |
