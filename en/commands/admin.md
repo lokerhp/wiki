@@ -54,6 +54,20 @@ Aliases: /sleutel
 Description: Create books for things such as fines, drivingslicenses or passports.\
 Permission: minetopiasdb.book\
 Aliases: /boek
+Permissions:
+| Permission                          | Beschrijving |
+| :--------------------------------- | :----------- |
+| minetopiasdb.book.fine             | Write out fines |
+| minetopiasdb.book.receipt          | Create receipts |
+| minetopiasdb.book.identification   | Create ID cards|
+| minetopiasdb.book.kvk              | Create a business registration book |
+| minetopiasdb.book.plotregistration | Create a plotregistration book|
+| minetopiasdb.book.driverslicense   | Write out driverslicenses |
+| minetopiasdb.book.permit           | Create permits |
+| minetopiasdb.book.vog              | Create a certificate of conduct |
+| minetopiasdb.book.diploma          | Create certificates |
+| minetopiasdb.book.prescription     | Create drug prescriptions |
+| minetopiasdb.book.cheque           | Create cheques |
 
 **/deathban**\
 Description: With /deathban you can toggle deathban or unban players who are deathbanned.\
