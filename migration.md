@@ -1,3 +1,3 @@
 # Migreren van data
 
-<script>window.location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';</script>
+Voor meer informatie over het migreren van data kan je [hier](https://minetopiasdb.nl/migratieinfo) vinden.
