@@ -30,6 +30,15 @@ Permissie: minetopiasdb.levelcheck
 **/mod**\
 Omschrijving: Verander spelersdata (zoals level, fitheid) van een speler.\
 Permissie: minetopiasdb.mod
+Permissies per subcommando:
+| Permissie                          | Beschrijving |
+| :--------------------------------- | :----------- |
+| minetopiasdb.mod.setprefix         | Verander de prefix van een speler    |
+| minetopiasdb.mod.setlevel          | Verander het level van een speler    |
+| minetopiasdb.mod.setcolor          | Verander de naamkleur van een speler |
+| minetopiasdb.mod.setfitness        | Verander de fitheid van een speler   |
+| minetopiasdb.chatspy               | Zet chatspy aan of uit               |
+| minetopiasdb.commandspy            | Zet commandspy aan of uit            |
 
 **/openbank**\
 Omschrijving: Met /openbank kan je de rekeningen van een speler bekijken.\
@@ -55,7 +64,6 @@ Omschrijving: Maak boekjes voor (o.a.) boetes, rijbewijzen, ID-bewijzen.\
 Permissie: minetopiasdb.book\
 Aliases: /boek\
 Permissies per boek:
-Permissies:
 | Permissie                          | Beschrijving |
 | :--------------------------------- | :----------- |
 | minetopiasdb.book.fine             | Schrijf boetes uit |
