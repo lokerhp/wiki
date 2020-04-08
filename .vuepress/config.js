@@ -84,7 +84,8 @@ module.exports = {
             collapsable: false,
             children: [
               '/tutorials/detectiongate',
-              '/tutorials/levelchecknpc'
+              '/tutorials/levelchecknpc',
+              '/tutorials/teleporters'
             ]
           },
         ]
@@ -134,7 +135,8 @@ module.exports = {
             collapsable: false,
             children: [
               '/en/tutorials/detectiongate',
-              '/en/tutorials/levelchecknpc'
+              '/en/tutorials/levelchecknpc',
+              '/tutorials/teleporters'
             ]
           },
         ]
