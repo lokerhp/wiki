@@ -136,7 +136,7 @@ module.exports = {
             children: [
               '/en/tutorials/detectiongate',
               '/en/tutorials/levelchecknpc',
-              '/tutorials/teleporters'
+              '/en/tutorials/teleporters'
             ]
           },
         ]
