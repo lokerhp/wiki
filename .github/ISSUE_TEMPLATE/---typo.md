@@ -1,6 +1,6 @@
 ---
-name: "\U0001F680 Typfout melden"
-about: Meldt hier je typfouten
+name: "⌨️ Typfout melden"
+about: Meld hier je typfouten
 
 ---
 
