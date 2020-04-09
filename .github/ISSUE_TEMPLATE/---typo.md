@@ -1,6 +1,9 @@
 ---
 name: "⌨️ Typfout melden"
 about: Meld hier je typfouten
+title: "[TYPO]"
+labels: bug
+assignees: ''
 
 ---
 
