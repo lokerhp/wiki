@@ -18,7 +18,7 @@ VendingMachine:
   EpicPrice: 2
   LegendaryPrice: 5
 ```
-Om de vendingmachines met een ander type shard te laten werken kun je de waarde aanpassen naar ``LUCKYSHARD``, ``GRAYSHARD`` of ``GOLDSHARD``. Let op, deze waardes veranderen **niet** mee als je je shards hernoemt.
+Om de vendingmachines met een ander type shard te laten werken kun je de waarde van ``ShardType`` aanpassen naar ``LUCKYSHARD``, ``GRAYSHARD`` of ``GOLDSHARD``. Let op, deze waardes veranderen **niet** mee als je je shards hernoemt.
 
 Het is handing om ook in de ``Messages.yml`` de berichten bij het kopje ``VendingMachine:`` aan te passen, omdat de standaardteksten uitgaan van het gebruik van LuckyShards.
 
