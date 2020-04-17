@@ -9,15 +9,14 @@ Omschrijving: Met /bereken kan je de gebouwsprijs van een door jouw geselecteerd
 Permissie: minetopiasdb.calculate\
 Aliases: /bereken
 
-**/plotwand**\
-Omschrijving: Je hebt een plotwand nodig om plots te maken en /bereken uit te voeren.\
-Permissie: minetopiasdb.plotwand\
-Aliases: /plotadd
-
 **/staffchat**\
 Omschrijving: Gebruik /staffchat \[bericht\] om een bericht in de staffchat te sturen of /staffchat om de staffchat te joinen.\
 Permissie: minetopiasdb.staffchat\
 Aliases: /sc, /staffc
+
+**/plotwand**\
+Omschrijving: Je hebt een plotwand nodig om plots te maken en /bereken uit te voeren.\
+Permissie: minetopiasdb.plotwand
 
 **/admintool**\
 Omschrijving: Krijg (of open) de admintool.\
