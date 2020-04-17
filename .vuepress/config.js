@@ -85,7 +85,8 @@ module.exports = {
             children: [
               '/tutorials/detectiongate',
               '/tutorials/levelchecknpc',
-              '/tutorials/teleporters'
+              '/tutorials/teleporters',
+              '/tutorials/vendingmachine'
             ]
           },
         ]
@@ -136,7 +137,8 @@ module.exports = {
             children: [
               '/en/tutorials/detectiongate',
               '/en/tutorials/levelchecknpc',
-              '/en/tutorials/teleporters'
+              '/en/tutorials/teleporters',
+              '/en/tutorials/vendingmachine'
             ]
           },
         ]
