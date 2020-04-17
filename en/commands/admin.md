@@ -9,15 +9,14 @@ Description: With /calculate you can see the buildingsprice of a selected area.\
 Permission: minetopiasdb.calculate\
 Aliases: /bereken
 
-**/plotwand**\
-Description: You need a plotwand to create plots or use /calculate.\
-Permission: minetopiasdb.plotwand\
-Aliases: /plotadd
-
 **/staffchat**\
 Description: Use /staffchat \[message\] to send a message in the staffchat or use /staffchat to join the staffchat.\
 Permission: minetopiasdb.staffchat\
 Aliases: /sc, /staffc
+
+**/plotwand**\
+Description: You need a plotwand to create plots or use /calculate.\
+Permission: minetopiasdb.plotwand
 
 **/admintool**\
 Description: Get (or open) the admintool.\
