@@ -62,7 +62,7 @@ Dat kan door een emailtje te sturen naar [datamigratie@minetopiasdb.nl](mailto:d
 | --------------- | ------- |
 | < 100           | Gratis* |
 | < 2.000         | € 2     |
-| < 10.000        | € 4     |
-| > 10.000        | € 6     |
+| < 6.000        | € 4     |
+| > 6.000        | € 6     |
 
 \* = alleen wanneer jouw server niet commercieel is en geen webshop heeft.
