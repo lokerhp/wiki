@@ -51,8 +51,8 @@ Permissions:
 | minetopiasdb.plot.setdescription | Change the description of a plot |
 
 **/booster**\
-Description: Use /booster to give, remove and activate luckyshard boosters.\
-Permission: None!
+Description: Use /booster to give, remove and activate grayshard, goldshard and luckyshard boosters.\
+Permission: minetopiasdb.booster to give or remove boosters!
 
 **/fitnessreset**\
 Description: Give players access to fitnessresets they can activate themselves.\
