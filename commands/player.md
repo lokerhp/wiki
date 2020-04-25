@@ -70,8 +70,8 @@ Omschrijving: Gebruik /prefix om jouw prefixmenu te openen.\
 Permissie: minetopiasdb.prefix om prefixes toe te voegen of te verwijderen.
 
 **/booster**\
-Omschrijving: Gebruik /booster om luckyshard boosters te geven, verwijderen en te activeren.\
-Permissie: Geen!
+Omschrijving: Gebruik /booster om grayshard, goldshard of luckyshard boosters te geven, verwijderen en te activeren.\
+Permissie: minetopiasdb.booster om boosters toe te voegen of te verwijderen.
 
 **/fitnessreset**\
 Omschrijving: Geef spelers toegang tot fitheidresets die ze zelf kunnen activeren.\
