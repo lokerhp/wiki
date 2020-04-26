@@ -1,8 +1,19 @@
 # Player commands
 
-**/head**\
-Description: Use /head to put the item you are holding on your head.\
-Permission: None!
+**/graycoin**\
+Description: Use graycoins.\
+Permission: minetopiasdb.graycoin (for giving and removing graycoins).\
+Aliases: /graycoins
+
+**/goldshard**\
+Description: Use goldshards.\
+Permission: minetopiasdb.goldshard (for giving and removing goldshards).\
+Aliases: /goldshards
+
+**/luckyshard**\
+Description: Use luckyshards.\
+Permission: minetopiasdb.luckyshard (for giving and removing luckyshards).\
+Aliases: /luckyshards
 
 **/chatcolor**\
 Description: With /chatcolor you can give chatcolors to players or modify chatcolors.\
@@ -18,6 +29,10 @@ Aliases: /prefixkleur
 Description: With /levelcolor you can give levelcolors to players or modify levelcolors.\
 Permission: None!\
 Aliases: /levelkleur
+
+**/head**\
+Description: Use /head to put the item you are holding on your head.\
+Permission: None!
 
 **/scoreboard**\
 Description: With /scoreboard you can enable or disable your scoreboard.\
