@@ -122,4 +122,5 @@ Aliases: /echtgeld, /nepgeld, /fakemoney
 
 **/lootcrate**\
 Description: Modify the content of lootcrates or get random items from lootcrates.\
-Permission: minetopiasdb.lootcrate
+Permission: minetopiasdb.lootcrate\
+Aliases: /lc
