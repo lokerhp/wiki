@@ -117,4 +117,5 @@ Aliases: /echtgeld, /nepgeld, /fakemoney
 
 **/lootcrate**\
 Omschrijving: Pas de inhoud van lootcrates aan of krijg willekeurige items uit lootcrates.\
-Permissie: minetopiasdb.lootcrate
+Permissie: minetopiasdb.lootcrate\
+Aliases: /lc
