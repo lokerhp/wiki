@@ -32,12 +32,12 @@ Permissie: minetopiasdb.mod
 Permissies per subcommando:
 | Permissie                          | Beschrijving |
 | :--------------------------------- | :----------- |
-| minetopiasdb.mod.setprefix         | Verander de prefix van een speler    |
-| minetopiasdb.mod.setlevel          | Verander het level van een speler    |
-| minetopiasdb.mod.setcolor          | Verander de naamkleur van een speler |
-| minetopiasdb.mod.setfitness        | Verander de fitheid van een speler   |
-| minetopiasdb.chatspy               | Zet chatspy aan of uit               |
-| minetopiasdb.commandspy            | Zet commandspy aan of uit            |
+| minetopiasdb.mod.setprefix         | Verander de prefix van een speler                                           |
+| minetopiasdb.mod.setlevel          | Verander het level van een speler                                           |
+| minetopiasdb.mod.setcolor          | Verander de naamkleur van een speler                                        |
+| minetopiasdb.mod.setfitness        | Verander de fitheid van een speler (via /mod addfitheid of /mod setfitheid) |
+| minetopiasdb.chatspy               | Zet chatspy aan of uit                                                      |
+| minetopiasdb.commandspy            | Zet commandspy aan of uit                                                   |
 
 **/openbank**\
 Omschrijving: Met /openbank kan je de rekeningen van een speler bekijken.\
