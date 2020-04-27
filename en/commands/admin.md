@@ -32,12 +32,12 @@ Permission: minetopiasdb.mod
 Permissions per subcommand:
 | Permissie                          | Descrpiption |
 | :--------------------------------- | :----------- |
-| minetopiasdb.mod.setprefix         | Change the prefix of a player        |
-| minetopiasdb.mod.setlevel          | Change the level of a player         |
-| minetopiasdb.mod.setcolor          | Change the namecolor of a player     |
-| minetopiasdb.mod.setfitness        | Change the fitness of a player       |
-| minetopiasdb.chatspy               | Toggle chatspy                       |
-| minetopiasdb.commandspy            | Toggle commandspy                    |
+| minetopiasdb.mod.setprefix         | Change the prefix of a player                                             |
+| minetopiasdb.mod.setlevel          | Change the level of a player                                              |
+| minetopiasdb.mod.setcolor          | Change the namecolor of a player                                          |
+| minetopiasdb.mod.setfitness        | Change the fitness of a player (using /mod addfitness or /mod setfitness) |
+| minetopiasdb.chatspy               | Toggle chatspy                                                            |
+| minetopiasdb.commandspy            | Toggle commandspy                                                         |
 
 **/openbank**\
 Description: With /openbank you can look at the bankaccount(s) of a player.\
