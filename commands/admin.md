@@ -84,7 +84,7 @@ Permissie: minetopiasdb.deathban
 **/ddgitems**\
 Omschrijving: Krijg een menu met (bijna) alle items uit de DDG resourcepack.\
 Permissie: minetopiasdb.ddgitems\
-Aliases: /fitheiditems, /rugzak, /backpack, /fitnessitems
+Aliases: /fitheiditems, /rugzak, /backpack, /fitnessitems, /wapens, /weapons
 
 **/sdbitems**\
 Omschrijving: Geef items een glow of unbreakable effect, of maak armor.\
