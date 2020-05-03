@@ -8,7 +8,7 @@ To select a position for the teleporter, execute the following command:
 ``/teleporter setlocation``
 
 After you've executed that command, you can create a teleporter by looking at a sign and executing the following command: 
-``/teleporter create <Name on sign> <X> <Y> <Z> <World> <Costs> <Min. Level>``
+``/teleporter create <Name on sign> <Costs> <Min. Level>``
 
 ![Teleporter help page](./teleportercmd_help.png)
 
