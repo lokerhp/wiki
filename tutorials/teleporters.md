@@ -4,8 +4,11 @@ De MinetopiaSDB plugin heeft ondersteuning voor teleporters waarmee je gemakkeli
 
 ## Commands
 
-Je kunt een teleporter aanmaken door naar een bordje te kijken en dit commando uit te voeren: 
-``/teleporter create <Naam op bordje> <X> <Y> <Z> <Wereld> <Kosten> <Min. Level>``
+Om een positie te selecteren voor een teleporter moet je het volgende commando uitvoeren: 
+``/teleporter setlocation``
+
+Nadat je dit commando uitgevoerd hebt kun je een teleporter aanmaken door naar een bordje te kijken en dit commando uit te voeren: 
+``/teleporter create <Naam op bordje> <Kosten> <Min. Level>``
 
 ![Teleporter help page](./teleportercmd_help.png)
 
