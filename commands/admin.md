@@ -89,7 +89,7 @@ Aliases: /fitheiditems, /rugzak, /backpack, /fitnessitems, /wapens, /weapons
 **/sdbitems**\
 Omschrijving: Geef items een glow of unbreakable effect, of maak armor.\
 Permissie: minetopiasdb.sdbitems\
-Aliases: /glow, /unbreakable, /boots, /kleding
+Aliases: /glow, /unbreakable, /boots, /kleding, /prullenbak, /trashcan
 
 [**/bankaccount**](./banking.md#hoe-maak-ik-een-rekening-aan)\
 Omschrijving: Met /rekening kan je spaar-, bedrijf-, of overheidsrekeningen aanpassen.\
