@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "bae04db3e1eea804555c8cd6ac9129d0"
+    "revision": "3d16d5b582858f54ba6be33da80b9011"
   },
   {
     "url": "android-chrome-192x192.png",
@@ -138,8 +138,8 @@ self.__precacheManifest = [
     "revision": "f9f368e44d97338c91b62997bf368056"
   },
   {
-    "url": "assets/js/21.f996bf66.js",
-    "revision": "98b3d5fa53670e620c9f5da74924e415"
+    "url": "assets/js/21.7a733636.js",
+    "revision": "ae87e12f9f485d8b18f6d4a6a55b62da"
   },
   {
     "url": "assets/js/22.7a4c96d3.js",
@@ -218,84 +218,84 @@ self.__precacheManifest = [
     "revision": "18798f2935d76722bd5122bded9c4d09"
   },
   {
-    "url": "assets/js/app.80252c8e.js",
-    "revision": "1ad81243538590646306cb6ada35ba88"
+    "url": "assets/js/app.3eb78e42.js",
+    "revision": "e3aa0d60d39c8eece95617d13226225b"
   },
   {
     "url": "bungeecord.html",
-    "revision": "7eced27ec0d40c08df4597080e60e431"
+    "revision": "4f4c73464608b1adf8f0ace1f81f5146"
   },
   {
     "url": "commands/admin.html",
-    "revision": "1bce32931e7f8242075d9211b111509e"
+    "revision": "7689d02c3f881bea1bb15b9a9653cad5"
   },
   {
     "url": "commands/banking.html",
-    "revision": "af0e2d5b57b046929ce868a5d491a964"
+    "revision": "6ef0d6856663b38d08628cacd69e166c"
   },
   {
     "url": "commands/player.html",
-    "revision": "bd5e82b3837556c55c1b426b16df3139"
+    "revision": "7f34f26605b16ee98e2d873c3d6bec87"
   },
   {
     "url": "en/bungeecord.html",
-    "revision": "e2e01ee75601a2b57f254ba719cbbff1"
+    "revision": "8bc908c62d4bed80029fd622643173f3"
   },
   {
     "url": "en/commands/admin.html",
-    "revision": "0e6638fe439c38d9da24228089b7e49b"
+    "revision": "e502f88d048eab2d63d3c84c4ca39d79"
   },
   {
     "url": "en/commands/banking.html",
-    "revision": "f1454386a54a78d9e165e765eeabf94c"
+    "revision": "704a27359260d3edfe670dc5969c9c2e"
   },
   {
     "url": "en/commands/player.html",
-    "revision": "32fb349555ef5b2817871723cb581add"
+    "revision": "466f348ee530e5168cb09c1534a0df6e"
   },
   {
     "url": "en/faq.html",
-    "revision": "3e64b1ca875d59c6f12ba0f6245825c3"
+    "revision": "3f06845f0410a712837f27831c9c15f6"
   },
   {
     "url": "en/index.html",
-    "revision": "4fca9a53db18302e46d75f0cfd184d53"
+    "revision": "25c118a7bd580045a25ab3fd55cae78b"
   },
   {
     "url": "en/permissions.html",
-    "revision": "123fb47cbbd20f6059fb2395ae79ef5a"
+    "revision": "6f9d6b2a0e31c1e974ca5e5e8ccdea3d"
   },
   {
     "url": "en/placeholders/integrated.html",
-    "revision": "f157996f2bcc1ac064aa19e0acbc5be1"
+    "revision": "7477e6d29e8933b324e2a70ea933e79d"
   },
   {
     "url": "en/placeholders/placeholderapi.html",
-    "revision": "7fa429f70d38b338b7ca3eabc24206a9"
+    "revision": "d616e36a4c563c93d850313f8d95cea7"
   },
   {
     "url": "en/setup.html",
-    "revision": "bb6c74aad18350d93b9241fa6ef1d506"
+    "revision": "6a7330e01356770d1d88467d7391fec0"
   },
   {
     "url": "en/tutorials/detectiongate.html",
-    "revision": "d9b0d0b04a2b4886015fa768d3f73682"
+    "revision": "c0155158cbd0f9ec4e6150f7a02beafe"
   },
   {
     "url": "en/tutorials/levelchecknpc.html",
-    "revision": "43980b49a3bdb096e11a8eb3acd88741"
+    "revision": "072c3079356d55713554a1ebeb681316"
   },
   {
     "url": "en/tutorials/teleporters.html",
-    "revision": "eaedf4e3d996bcd712026ed81c97297c"
+    "revision": "2e2ed6cc1f7214325f548b8b24a6d9c7"
   },
   {
     "url": "en/tutorials/vendingmachine.html",
-    "revision": "071430204ce0889b0159feba2ac9337a"
+    "revision": "0fd3d7de27684cb082e0bee69ca2725f"
   },
   {
     "url": "faq.html",
-    "revision": "4e934ab9ec57164a1fdabe483e7cb675"
+    "revision": "424623080c45796f53585365bba5ee9d"
   },
   {
     "url": "favicon-16x16.png",
@@ -311,7 +311,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "2350890d964244829ea51e06a3dae34c"
+    "revision": "30ce413f4e9663856a663c3cce7ba375"
   },
   {
     "url": "mstile-150x150.png",
@@ -323,35 +323,35 @@ self.__precacheManifest = [
   },
   {
     "url": "permissions.html",
-    "revision": "46426b3421438efeb6efcfcaa0263f52"
+    "revision": "7b224753879c2f955e606d35616c1cb5"
   },
   {
     "url": "placeholders/integrated.html",
-    "revision": "cf7268ed7ad2e79cb6d3b8f921d5c9da"
+    "revision": "c27807c1a0c14e725377c03287f2790a"
   },
   {
     "url": "placeholders/placeholderapi.html",
-    "revision": "eaf6de7d0e61ecb8d962652c63d1ed52"
+    "revision": "90ef609a3ddf748ddd5439557951d021"
   },
   {
     "url": "setup.html",
-    "revision": "4f742d83eb94fd52426d0353e87129ad"
+    "revision": "5169427dab2827c5d75b1f23ae91b634"
   },
   {
     "url": "tutorials/detectiongate.html",
-    "revision": "fd1b5a1fa631ca5c80cfd16a159ee295"
+    "revision": "7d6f87bbd176cbda79ea382d169d13ff"
   },
   {
     "url": "tutorials/levelchecknpc.html",
-    "revision": "25c9ac749484a9a9a858a299489e4834"
+    "revision": "4265cab30331314b804b24958d0e682b"
   },
   {
     "url": "tutorials/teleporters.html",
-    "revision": "522ea397a10222e756f724dcd7703ac8"
+    "revision": "36f1e6578c46ae5ff6d51241543f641d"
   },
   {
     "url": "tutorials/vendingmachine.html",
-    "revision": "48676ace5d5e739ba92e801d2d4a5f9e"
+    "revision": "659dcec498e5c3d96428c23cae63b103"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
