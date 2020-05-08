@@ -89,7 +89,7 @@ Aliases: /fitheiditems, /rugzak, /backpack, /fitnessitems, /wapens, /weapons
 **/sdbitems**\
 Description: Give items a glow or unbreakable effect, or create armor.\
 Permission: minetopiasdb.sdbitems\
-Aliases: /glow, /unbreakable, /boots, /kleding
+Aliases: /glow, /unbreakable, /boots, /kleding, /prullenbak, /trashcan
 
 **/bankaccount**\
 Description: With /bankaccount you can modify savings, company or government bankaccounts.\
