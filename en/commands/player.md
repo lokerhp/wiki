@@ -42,7 +42,7 @@ Aliases: /sboard, /sb
 **/time**\
 Description: Look at your onlinetime.\
 Permission: None!\
-Aliases: /playtime, /ptime
+Aliases: /playtime
 
 **/plotinfo**\
 Description: With /plotinfo you can see basic information of a plot.\
