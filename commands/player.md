@@ -15,6 +15,11 @@ Omschrijving: Gebruik luckyshards.\
 Permissie: minetopiasdb.luckyshard (voor het geven en verwijderen van luckyshards).\
 Aliases: /luckyshards
 
+**/grayshard**\
+Omschrijving: Gebruik grayshards.\
+Permissie: minetopiasdb.grayshard (voor het geven en verwijderen van grayshards).\
+Aliases: /grayshards
+
 **/chatcolor**\
 Omschrijving: Met /chatkleur kan je chatkleuren aan spelers geven of chatkleuren aanpassen.\
 Permissie: minetopiasdb.chatcolor (voor het geven en verwijderen van chatkleuren)\
