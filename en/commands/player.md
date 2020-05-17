@@ -15,6 +15,11 @@ Description: Use luckyshards.\
 Permission: minetopiasdb.luckyshard (for giving and removing luckyshards).\
 Aliases: /luckyshards
 
+**/grayshard**\
+Description: Use grayshards.\
+Permission: minetopiasdb.grayshard (for giving and removing grayshards).\
+Aliases: /grayshards
+
 **/chatcolor**\
 Description: With /chatcolor you can give chatcolors to players or modify chatcolors.\
 Permission: None!\
