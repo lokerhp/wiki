@@ -42,7 +42,7 @@ Aliases: /sboard, /sb
 **/time**\
 Omschrijving: Bekijk jouw onlinetijd.\
 Permissie: Geen!\
-Aliases: /playtime, /ptime
+Aliases: /playtime
 
 **/plotinfo**\
 Omschrijving: Met /plotinfo kan je de basisinformatie van een plot zien.\
