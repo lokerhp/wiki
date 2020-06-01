@@ -1,5 +1,16 @@
 # FAQ
 
+## What are the difference between MinetopiaSDB v1 and v2?
+There are a lot! Most of the changes are behind the scenes, but a couple of cool features have been added:
+- /prefix
+- /prefixcolor 
+- /levelcolor
+- Goldshards and grayshards have been added, these both have their own booster. 
+- You can now buy epic and legendary goodybags in vending machines. 
+- Data is now being stored in MySQL or SQLite.
+- You can combine multiple MinetopiaSDB servers via Bungeecord, to spread players over multiple servers.
+
+
 ## Hoe can I get my rank in the chat or tablist?
 Because the /setrank command isn't present in MinetopiaSDB v2 anymore, you'll have to do it a different way.
 ### LuckPerms:
