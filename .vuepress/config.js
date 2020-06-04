@@ -1,6 +1,6 @@
 module.exports = {
   base: '/',
-  title: 'MinetopiaSDB Docs',
+  title: 'MinetopiaSDB Wiki',
   theme: 'default-prefers-color-scheme',
   head: [
     ['link', {rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png'}],
@@ -34,7 +34,7 @@ module.exports = {
   },
   themeConfig: {
     logo: '/favicon-194x194.png',
-    repo: 'minetopiasdb/docs',
+    repo: 'minetopiasdb/wiki',
     repoLabel: 'Contribute',
     editLinks: true,
     nextLinks: true,
