@@ -1,5 +1,14 @@
 # FAQ
 
+## What do I need to do to update from v1 to v2?
+Because the data in MinetopiaSDB v1 was not stored in the most efficient way, we have chosen to fully switch to SQL in v2, you can choose between MySQL and SQLite.
+
+This means that data from MinetopiaSDB v1 does not work on MinetopiaSDB v2 servers. You can have your v1 data converted to v2 data for a small fee. More information can be found [here](https://wiki.minetopiasdb.nl/en/setup.html#data-migration). Keep in mind that only player data is transferred, and that you'll have to transfer files like configs and Message files yourself if you want to.
+
+After you have converted your data to the v2 data you will get a ``Data.db`` file, which you must throw in the MinetopiaSDB folder. The exact steps how to do it are explained when the data conversion is complete.
+
+Of course, you can also choose not to have your data transferred, which means that players lose their MinetopiaSDB data (such as prefixes, levels, online time, company accounts, etc.). Because plots, inventories and private accounts are stored by the server itself (or other plugins), you will not lose this data if you go from v1 to v2 without data conversion.
+
 ## What are the difference between MinetopiaSDB v1 and v2?
 There are a lot! Most of the changes are behind the scenes, but a couple of cool features have been added:
 - /prefix
