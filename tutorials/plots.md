@@ -12,11 +12,13 @@ Klik hierna met je rechtermuisknop op de andere hoek van je plot (Zie blauwe blo
 
 Voer vervolgens het command ``/padd <naam van het plot>`` uit.
 
+Je hebt nu een plot gemaakt!
+
 ## Hoe maak je niet rechthoekige plots?
 
 Als je niet rechthoekige plots wilt maken, kan je het beste even **[deze video](https://www.youtube.com/watch?v=-xOFv5cJUXI)** kijken
 ## Het /plot command
-
+Hieronder staat een overzicht met alle verschillende permissies van /plot
 | Permissie                        | Beschrijving |
 | :------------------------------- | :----------- |
 | minetopiasdb.plot.addowner       | Voeg een speler toe als eigenaar van een plot |
