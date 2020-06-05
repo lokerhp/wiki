@@ -86,7 +86,8 @@ module.exports = {
               '/tutorials/detectiongate',
               '/tutorials/levelchecknpc',
               '/tutorials/teleporters',
-              '/tutorials/vendingmachine'
+              '/tutorials/vendingmachine',
+              '/tutorials/plots'
             ]
           },
         ]
